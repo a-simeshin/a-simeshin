@@ -27,6 +27,9 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
+### Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=a-simeshin&show_icons=true&theme=dracula&hide=stars&count_private=true)
+
 ### Connect with me
 [![Chat on Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saddecember)
 [![Mail on GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadnovember2@gmail.com)
