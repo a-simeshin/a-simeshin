@@ -4,8 +4,6 @@
 ### Hi there! I`m Artem
 
 ### I am a QA automation engineer
-- At the moment I am working on the automation of testing the retail segment in the credit machine of a one large Russian green bank
-- <details><summary>I`m currently mastering java gRPC for testing microservices and not only</summary><pre>If you are also interested in developing and testing microservices with gRPC, I strongly advise you to pay attention to https://github.com/yidongnan, he is just a god of gRPC</pre></details>
 - 🖤 Passionate with Junit5, Allure and Spring
 - 🤍 I`m inspired by Lombok, Selenide and Hamcrest
 - 🤪 Sometimes I hate Istio, sometimes I love Istio
